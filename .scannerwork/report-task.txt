@@ -1,0 +1,7 @@
+organization=space-game-666
+projectKey=parramorej_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6982
+dashboardUrl=https://sonarcloud.io/dashboard?id=parramorej_mslearn-tailspin-spacegame-web
+ceTaskId=AXGZcdTCkMHQeo0V1MIZ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXGZcdTCkMHQeo0V1MIZ
